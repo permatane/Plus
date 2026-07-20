@@ -18,7 +18,7 @@ open class DutaMovie : MainAPI() {
     companion object {
         var context: android.content.Context? = null
     }
-    override var mainUrl = "https://austincomputerworks.org/"
+    override var mainUrl = "https://lk21.de"
     private var directUrl: String? = null
     override var name = "DutaMovie"
     override val hasMainPage = true
