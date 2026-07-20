@@ -10,6 +10,7 @@ import com.lagradost.nicehttp.RequestBodyTypes
 import okhttp3.MediaType.Companion.toMediaTypeOrNull
 import okhttp3.RequestBody.Companion.toRequestBody
 
+
 class Moviebox : MainAPI() {
 
     override var mainUrl = "https://moviebox.ph"
