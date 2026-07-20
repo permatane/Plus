@@ -1,0 +1,9 @@
+{
+    "name": "Matane Repo",
+    "iconUrl": "https://raw.githubusercontent.com/permatane/Plus/main/monyet.png",
+    "description": "Plus Matane Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/permatane/Plus/builds/plugins.json"
+    ]
+}

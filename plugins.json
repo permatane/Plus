@@ -1,0 +1,130 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/permatane/Plus/builds/Animasu.cs3",
+        "status": 1,
+        "version": 12,
+        "name": "Animasu",
+        "internalName": "Animasu",
+        "authors": [
+            "Hexated"
+        ],
+        "fileSize": 29065,
+        "repositoryUrl": "https://github.com/permatane/Plus",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v0.animasu.app&size=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-83b881e4bb496f768f958403b599859316aa0321180e67bd12cbb96d9a5848de"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/permatane/Plus/builds/Donghua.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "Donghua",
+        "internalName": "Donghua",
+        "authors": [
+            "Matane"
+        ],
+        "fileSize": 41905,
+        "repositoryUrl": "https://github.com/permatane/Plus",
+        "language": "id",
+        "tvTypes": [
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://anichin.cafe&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-cc8eacda9c5d295dd6031720f1e65aa157bdf0d11179971731738d978f0dcc4c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/permatane/Plus/builds/Dutamovie.cs3",
+        "status": 1,
+        "version": 14,
+        "name": "Dutamovie",
+        "internalName": "Dutamovie",
+        "authors": [
+            "Duro92"
+        ],
+        "description": "DutaMovie",
+        "fileSize": 35535,
+        "repositoryUrl": "https://github.com/permatane/Plus",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://justilien.com&size=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-fe64d3c944d5e9f6de61da673ab73e69604cef91793ef2596f3d7eec0818b808"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/permatane/Plus/builds/Fufafilm.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "Fufafilm",
+        "internalName": "Fufafilm",
+        "authors": [
+            "Duro92"
+        ],
+        "description": "Fufafilm",
+        "fileSize": 29230,
+        "repositoryUrl": "https://github.com/permatane/Plus",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fufafilm.com&size=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-2c5e02c98e9418a4fd708cc8e2f7c99bda80f783eea73d5201ee132f56a0a1e6"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/permatane/Plus/builds/LayarKaca.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "LayarKaca",
+        "internalName": "LayarKaca",
+        "authors": [
+            "Matane, kraptor, Phisher98, Hexated"
+        ],
+        "description": "Nonton dan download film & series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
+        "fileSize": 24102,
+        "repositoryUrl": "https://github.com/permatane/Plus",
+        "language": "id",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv7.lk21official.cc&size=256",
+        "apiVersion": 1,
+        "fileHash": "sha256-9fa6267500b986dbf7d7b23761b7f854842df4ce4c333f4acfcf907cc52a9ba3"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/permatane/Plus/builds/Ngefilm.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "Ngefilm",
+        "internalName": "Ngefilm",
+        "authors": [
+            "Matane"
+        ],
+        "description": "Ngefilm",
+        "fileSize": 23831,
+        "repositoryUrl": "https://github.com/permatane/Plus",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://ngefilm21.pw&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-e2c0a287d27547f063776251f9ec45aa68854795268b4b36edc19308430212c9"
+    }
+]
